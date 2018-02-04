@@ -8,3 +8,5 @@ Every HTML document begins with a HTML document tag.
      body : Next step is the most important of all the tags we have learned so far. The body tag contains the actual body of the page which will be visible to all the users. This opens with "body" and ends with "/body". Every content enclosed within this tag will be shown on the web page be it writings or images or audios or videos or even links. We will see later in the section how using various tags we may insert mentioned contents into our web pages.
 # HTML Heading
 These tags help us to give headings to the content of a webpage. These tags are mainly written inside the HTML provides us with six heading tags from "h1" to "h6". Every tag displays the heading in a different style.
+# HTML Paragraph
+These tags help us to write paragraph statements in a webpage. They start with the 'p' tag and ends with 'p'. Here the 'br' tag is used to break line and acts as a carriage return. 'br' is an empty tag.
