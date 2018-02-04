@@ -12,3 +12,5 @@ These tags help us to give headings to the content of a webpage. These tags are 
 These tags help us to write paragraph statements in a webpage. They start with the 'p' tag and ends with 'p'. Here the 'br' tag is used to break line and acts as a carriage return. 'br' is an empty tag.
 # Comments
 If you want to comment on code to show something to developer you can comment by usnig "<!--".
+# Spacing
+If you want to space between lines you can use 'br' command. And if you want to space between the words you can use '&nbsp' command.
