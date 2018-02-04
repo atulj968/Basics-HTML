@@ -10,3 +10,5 @@ Every HTML document begins with a HTML document tag.
 These tags help us to give headings to the content of a webpage. These tags are mainly written inside the HTML provides us with six heading tags from "h1" to "h6". Every tag displays the heading in a different style.
 # HTML Paragraph
 These tags help us to write paragraph statements in a webpage. They start with the 'p' tag and ends with 'p'. Here the 'br' tag is used to break line and acts as a carriage return. 'br' is an empty tag.
+# Comments
+If you want to comment on code to show something to developer you can comment by usnig "<!--".
