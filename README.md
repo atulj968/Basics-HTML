@@ -16,3 +16,9 @@ If you want to comment on code to show something to developer you can comment by
 If you want to space between lines you can use 'br' command. And if you want to space between the words you can use '&nbsp' command.
 # Horizontal Line
 The 'hr' tag is used to break the page into various parts, creating horizontal margins with help of a horizontal line running from left to right hand side of the page. This is also an empty tag and doesn’t take any additional statements.
+# Listing
+HTML provide listing in two ways:
+1.Unordered Listing
+2.Ordered Listing
+  In unordered  listing  there is no numbering on elements.For unordered listing we use 'ul' tag.
+  In ordered listing we can give numbers to the elements.For ordered listing we use 'li' tag.
