@@ -22,6 +22,7 @@ HTML provide listing in two ways:
 2.Ordered Listing
   In unordered  listing  there is no numbering on elements.For unordered listing we use 'ul' tag.
   In ordered listing we can give numbers to the elements.For ordered listing we use 'li' tag.
-#Table
+
+# Table
 The HTML tables allow web authors to arrange data like text, images, links, other tables, etc. into rows and columns of cells.
 The HTML tables are created using the 'table' tag in which the 'tr' tag is used to create table rows and 'td' tag is used to create data cells. The elements under 'td' are regular.
